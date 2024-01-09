@@ -39,10 +39,10 @@ export default hopeTheme({
     plugins: {
         comment: {
             provider: "Giscus",
-            repo: "CaoBaoQi/docsify-template",
-            repoId: "R_kgDOKx6Q2A",
+            repo: "CaoBaoQi/vue-hope-cbq",
+            repoId: "R_kgDOLCkJFg",
             category: "Announcements",
-            categoryId: "DIC_kwDOKx6Q2M4CbYTM",
+            categoryId: "DIC_kwDOLCkJFs4CcTFs",
         },
         mdEnhance: {
             align: true,
