@@ -5,8 +5,8 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "VueHope-Template",
-  description: "vuepress-theme-hope 模板项目",
+  title: "JZXY-CBQ",
+  description: "JZXY-CBQ",
   theme,
   markdown: {
       headers: {

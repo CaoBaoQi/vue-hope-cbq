@@ -1,22 +1,19 @@
 ---
 home: true
-icon: home
-title: Vue-Hope-Template
-heroImage: /logo.svg
+icon: /go.svg
+title: JZXY-CBQ
+heroImage: /go-128.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 项目名称
-tagline: 你可以在这里放置或是整个项目的描述。
+heroText: JZXY-CBQ
+tagline: 计算机科学与技术 Go
 actions:
   - text: 使用指南
     icon: lightbulb
-    link: ./demo/
+    link: ./major/
     type: primary
-
-  - text: 文档
-    link: ./guide/
 
 highlights:
   - header: 易于安装
