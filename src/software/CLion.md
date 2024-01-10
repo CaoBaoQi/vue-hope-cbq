@@ -33,7 +33,7 @@ CLion 是一个适用于专业开发者的强大工具，它通过提供高效�
 
 ## 1.1 下载
 
-> - Link: https://www.jetbrains.com/zh-cn/clion/download/#section=windows
+> - Link: [Download-CLion](https://www.jetbrains.com/zh-cn/clion/download/#section=windows)
 
 <img src="https://jz-cbq-1311841992.cos.ap-beijing.myqcloud.com/images/image-20240109194011371.png" alt="image-20240109194011371" style="zoom:67%;" />
 
@@ -41,11 +41,11 @@ CLion 是一个适用于专业开发者的强大工具，它通过提供高效�
 
 > 激活方式可采用:
 >
-> - 学生授权方式 (参见：https://zhuanlan.zhihu.com/p/676651672 )
+> - 学生授权方式 (参见：[Jetbrains 学生授权](https://zhuanlan.zhihu.com/p/676651672 ))
 
 <img src="https://jz-cbq-1311841992.cos.ap-beijing.myqcloud.com/images/image-20240109194209215.png" alt="image-20240109194209215" style="zoom:67%;" />
 
-### 1.3 CLion 启动 !
+## 1.3 CLion 启动 !
 
 <img src="https://jz-cbq-1311841992.cos.ap-beijing.myqcloud.com/images/image-20240109194239101.png" alt="image-20240109194239101" style="zoom:67%;" />
 
@@ -55,7 +55,7 @@ CLion 是一个适用于专业开发者的强大工具，它通过提供高效�
 
 <img src="https://jz-cbq-1311841992.cos.ap-beijing.myqcloud.com/images/image-20240109194446471.png" alt="image-20240109194446471" style="zoom:67%;" />
 
-### 2.1 C 项目的创建
+## 2.1 C 项目的创建
 
 > 汉化：Chinese (Simplified) Language Pack / 中文语言包
 
@@ -65,7 +65,7 @@ CLion 是一个适用于专业开发者的强大工具，它通过提供高效�
 
 <img src="https://jz-cbq-1311841992.cos.ap-beijing.myqcloud.com/images/image-20240109194809203.png" alt="image-20240109194809203" style="zoom:67%;" />
 
-### 2.2 CMake 文件的配置
+## 2.2 CMake 文件的配置
 
 > 通常情况下在 CLion 中 **一个工程默认只有一个 main 函数**，但在学习阶段我们通常采用 **一个工程中配置多个 main  函数** 的方式来学习，我们可以通过配置 CMake 文件来达到这一目的。
 
@@ -108,7 +108,7 @@ endforeach ()
 
 - 源代码中 c 文件的名称即使位于不同级目录也不能相同 (最后要编译为 可执行文件（以文件名为可执行文件的名）因此不可以重复)
 
-### 2.3 C 文件模板配置
+## 2.3 C 文件模板配置
 
 > CLion 默认创建文件时 .cpp 是其首选项我们可以通过下面的配置来使得 .c 为首选项
 
@@ -152,7 +152,7 @@ void ${NAME}_demo02(){
 }
 ```
 
-### 2.4 编写常用头文件
+## 2.4 编写常用头文件
 
 > 我们可以通过头文件的方式引入常用的功能
 
@@ -203,7 +203,7 @@ void printFooterColorful(char *name) {
 }
 ```
 
-### 2.5 main 函数模板配置
+## 2.5 main 函数模板配置
 
 > CLion 中默认情况没有默认的 main 模板
 
@@ -231,3 +231,43 @@ void $NAME$_demo$COUNT$(){
 这样我们便可以在 c 文件中通过 `main ` 和  `func ` 的方式快速生成相应的模板
 
 ![image-20240109200422998](https://jz-cbq-1311841992.cos.ap-beijing.myqcloud.com/images/image-20240109200422998.png)
+
+## 三、插件安装
+
+## 3.1 Ikun Progress
+
+> 你干嘛 ~，哎呦 ！ --> 你是 IKun 吗 ?  🐔🐔🐔
+
+![image-20240110121606831](https://jz-cbq-1311841992.cos.ap-beijing.myqcloud.com/images/image-20240110121606831.png)
+
+## 3.2 Better Higlights
+
+> 提供彩色注释
+
+<img src="https://jz-cbq-1311841992.cos.ap-beijing.myqcloud.com/images/image-20240110121335456.png" alt="image-20240110121335456" style="zoom: 67%;" />
+
+![image-20240110121350713](https://jz-cbq-1311841992.cos.ap-beijing.myqcloud.com/images/image-20240110121350713.png)
+
+## 3.3 CodeGlance Pro
+
+> 代码缩略图，便于快速定位代码
+
+![image-20240110121456174](https://jz-cbq-1311841992.cos.ap-beijing.myqcloud.com/images/image-20240110121456174.png)
+
+![image-20240110121514978](https://jz-cbq-1311841992.cos.ap-beijing.myqcloud.com/images/image-20240110121514978.png)
+
+## 3.4 Atom Material Icons
+
+> 文件图标
+
+![image-20240110121733866](https://jz-cbq-1311841992.cos.ap-beijing.myqcloud.com/images/image-20240110121733866.png)
+
+![image-20240110121750733](https://jz-cbq-1311841992.cos.ap-beijing.myqcloud.com/images/image-20240110121750733.png)
+
+## 3.5 Rainbow Brackets
+
+> 彩虹括号
+
+![image-20240110121814917](https://jz-cbq-1311841992.cos.ap-beijing.myqcloud.com/images/image-20240110121814917.png)
+
+![image-20240110121828608](https://jz-cbq-1311841992.cos.ap-beijing.myqcloud.com/images/image-20240110121828608.png)
