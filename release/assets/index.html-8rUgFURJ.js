@@ -1,1 +1,0 @@
-import{_ as t}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as a,c as o,a as e,d as r}from"./app-trySpdx0.js";const s={},c=e("h2",{id:"mysql",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#mysql","aria-hidden":"true"},"#"),r(" MySQL")],-1),n=[c];function d(_,i){return a(),o("div",null,n)}const m=t(s,[["render",d],["__file","index.html.vue"]]);export{m as default};

@@ -1,1 +1,0 @@
-import{_ as a,o as t,c,a as e,d as o}from"./app-DsB3-5_I.js";const r={},s=e("h2",{id:"idea-安装与配置",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#idea-安装与配置","aria-hidden":"true"},"#"),o(" IDEA 安装与配置")],-1),d=[s];function n(_,i){return t(),c("div",null,d)}const l=a(r,[["render",n],["__file","IDEA.html.vue"]]);export{l as default};
