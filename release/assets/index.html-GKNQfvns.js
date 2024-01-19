@@ -1,0 +1,1 @@
+import{_ as t,o as n,c as o,a as e}from"./app-6vlyrLaG.js";const s={},_=e("div",{style:{"margin-top":"30px"}},null,-1),c=e("div",{style:{"margin-top":"20px"}},null,-1),l=[_,c];function a(i,r){return n(),o("div",null,l)}const m=t(s,[["render",a],["__file","index.html.vue"]]);export{m as default};

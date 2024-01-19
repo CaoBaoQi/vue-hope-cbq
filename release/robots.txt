@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://gitee.com/cola777jz/vue-hope-cbq/sitemap.xml
