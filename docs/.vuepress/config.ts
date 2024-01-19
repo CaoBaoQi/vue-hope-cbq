@@ -11,43 +11,6 @@ export default defineUserConfig({
     title: "JZXY-CBQ",
     description: "JZXY-CBQ",
     shouldPrefetch: false,
-    head: [
-        [
-            "script",
-            {},
-            `
-        (function() {
-	       if (location.href.indexOf('gitee.io') > -1 || location.href.indexOf('sheng90.wang') > -1) {
-           		window.location.href = 'https://api-buddy.cn';
-           }
-        })();
-        `,
-        ],
-        [
-            "link",
-            {
-                rel: "icon",
-                href: "/img/fastRequest.svg",
-            },
-        ],
-        [
-            "script",
-            { src: "//at.alicdn.com/t/c/font_2601581_8pffk35qiba.js", async: true },
-        ],
-        // ["script", { src: "/js/baidu.js" ,"async":true}],
-        ["script", { src: "/js/gtag.js", async: true }],
-        [
-            "script",
-            {},
-            `
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-Y8G30ZWCYE');
-    `,
-        ],
-        // ["script", { src: "https://cdn.wwads.cn/js/makemoney.js" }],
-    ],
 
     markdown: {
         code: {
