@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,a as e,d as o}from"./app-DsB3-5_I.js";const r={},s=e("h2",{id:"计算机组成原理-02-安装与配置",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#计算机组成原理-02-安装与配置","aria-hidden":"true"},"#"),o(" 计算机组成原理 02 安装与配置")],-1),n=[s];function _(i,d){return a(),c("div",null,n)}const h=t(r,[["render",_],["__file","os-principle02.html.vue"]]);export{h as default};

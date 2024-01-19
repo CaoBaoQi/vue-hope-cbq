@@ -1,0 +1,1 @@
+import{_ as a,o as d,c as o,a as e,d as r}from"./app-DsB3-5_I.js";const t={},n=e("h2",{id:"android-02-安装与配置",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#android-02-安装与配置","aria-hidden":"true"},"#"),r(" Android 02 安装与配置")],-1),c=[n];function s(i,_){return d(),o("div",null,c)}const l=a(t,[["render",s],["__file","android02.html.vue"]]);export{l as default};
